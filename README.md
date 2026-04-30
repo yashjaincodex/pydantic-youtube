@@ -168,8 +168,8 @@ See the `LICENSE` file for details.
 
 # **📬 Stay Connected**
 
--   [YouTube Channel](https://www.youtube.com/@yash0307jain)
--   [LinkedIn](https://www.linkedin.com/in/yash0307jain)
+-   [YouTube Channel](https://www.youtube.com/@yashjaincodex)
+-   [LinkedIn](https://www.linkedin.com/in/yashjaincodex)
 
 ---
 
